@@ -1,6 +1,0 @@
-# Ignore o diretório obj e o BIN
-.obj
-.bin
-
-#ignore arquivos db-shm
-*.db-shm
