@@ -1,9 +1,5 @@
-# Ignore BIN, OBJ, MIGRATIONS
-.BIN
-.OBJ
-.MIGRATIONS
+obj/
+bin/
 
-# IGNORE ARQUIVOS .DB, .DB-SHM E .DB-WAL
-* .DB
-* .DB-SHM
-* .DB-WAL
+*.db-shm
+*.db-wal
